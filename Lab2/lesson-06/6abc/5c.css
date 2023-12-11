@@ -1,0 +1,17 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+  margin-bottom: 0px;
+}
+.p-one {
+  color: grey;
+  margin-top: 0px;
+}
+button {
+  color: white;
+  background-color: green;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 10px;
+}
